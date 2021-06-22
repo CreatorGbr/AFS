@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="PRUEBA 1" />
+              <option name="title_text" value="Sin t&amp;#237;tulo1" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1181,10 +1181,10 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6oskDHJPyku" displaytext="Escena sin título" expand="true" type="slide">
+        <slidelink slideid="_player.5u0aK8XzChZ" displaytext="Escena sin título" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6oskDHJPyku.6kyoMha1ydD" displaytext="Portada" expand="false" type="slide" />
-            <slidelink slideid="_player.6oskDHJPyku.5sdA43qgvb1" displaytext="Menu" expand="false" type="slide" />
+            <slidelink slideid="_player.5u0aK8XzChZ.5ZoSNLQtDvZ" displaytext="Portada" expand="false" type="slide" />
+            <slidelink slideid="_player.5u0aK8XzChZ.6aXBiMzuIhz" displaytext="Menu" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
